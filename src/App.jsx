@@ -1,0 +1,12 @@
+import React from 'react';
+
+const App=()=>{
+  return (
+    <>
+      <div className='h-screen text-white w-screen bg-gray-900'>
+          
+      </div>
+    </>
+  );
+}
+export default App;
